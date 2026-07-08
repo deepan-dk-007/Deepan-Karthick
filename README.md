@@ -1,4 +1,4 @@
-DEEPAN KARTHICK
+# DEEPAN KARTHICK
 # 💫 About Me:
 Hello! I'm Deepan karthick S, an<br> Electronics and Communication Engineering Student<br> at Sethu Institute of Technology.<br> I have a keen interest in software development ,<br>Web design ,and IOT-based solution.
 
